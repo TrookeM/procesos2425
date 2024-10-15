@@ -1,0 +1,16 @@
+{
+  "name": "procesos2425",
+  "version": "1.0.0",
+  "description": "Proyecto Procesos de Ingeniería del Software del curso 24-25",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "testW": "node_modules\\.bin\\jasmine-node servidor"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jasmine-node": "^3.0.0"
+  }
+}
